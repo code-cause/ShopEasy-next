@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Running Shoes",
+    "price": 99,
+    "category": "Shoes",
+    "rating": 4.5,
+    "image": "/images/1.png",
+    "description": "Comfortable running shoes for your daily workout"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones",
+    "price": 149,
+    "category": "Electronics",
+    "rating": 4.8,
+    "image": "/images/2.png",
+    "description": "Premium wireless headphones with noise cancellation"
+  },
+  {
+    "id": 3,
+    "title": "Backpack",
+    "price": 129,
+    "category": "Clothing",
+    "rating": 4.3,
+    "image": "/images/3.png",
+    "description": "Durable backpack for everyday use"
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch",
+    "price": 249,
+    "category": "Electronics",
+    "rating": 4.6,
+    "image": "/images/4.png",
+    "description": "Advanced smartwatch with health tracking"
+  },
+  {
+    "id": 5,
+    "title": "Sunglasses",
+    "price": 149,
+    "category": "Clothing",
+    "rating": 4.4,
+    "image": "/images/5.png",
+    "description": "Stylish sunglasses with UV protection"
+  },
+  {
+    "id": 6,
+    "title": "Digital Camera",
+    "price": 499,
+    "category": "Electronics",
+    "rating": 4.7,
+    "image": "/images/6.png",
+    "description": "Professional digital camera for photography enthusiasts"
+  },
+  {
+    "id": 7,
+    "title": "T-shirt",
+    "price": 29,
+    "category": "Clothing",
+    "rating": 4.2,
+    "image": "/images/7.png",
+    "description": "Comfortable cotton t-shirt"
+  },
+  {
+    "id": 8,
+    "title": "Smartphone",
+    "price": 699,
+    "category": "Electronics",
+    "rating": 4.0,
+    "image": "/images/8.png",
+    "description": "Lorem ipsum dolor amet, consectetetur euisagone."
+  },
+  {
+    "id": 9,
+    "title": "Coffee Maker",
+    "price": 89,
+    "category": "Home",
+    "rating": 4.5,
+    "image": "/images/9.png",
+    "description": "Automatic coffee maker for perfect morning brew"
+  },
+  {
+    "id": 10,
+    "title": "Desk Lamp",
+    "price": 45,
+    "category": "Home",
+    "rating": 4.3,
+    "image": "/images/10.png",
+    "description": "Adjustable LED desk lamp"
+  }
+]
